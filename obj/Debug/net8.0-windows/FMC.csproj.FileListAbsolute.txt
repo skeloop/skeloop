@@ -1,0 +1,17 @@
+E:\C#\FMC\bin\Debug\net8.0-windows\FMC.exe
+E:\C#\FMC\bin\Debug\net8.0-windows\FMC.deps.json
+E:\C#\FMC\bin\Debug\net8.0-windows\FMC.runtimeconfig.json
+E:\C#\FMC\bin\Debug\net8.0-windows\FMC.dll
+E:\C#\FMC\bin\Debug\net8.0-windows\FMC.pdb
+E:\C#\FMC\obj\Debug\net8.0-windows\FMC.csproj.GenerateResource.cache
+E:\C#\FMC\obj\Debug\net8.0-windows\FMC.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\FMC\obj\Debug\net8.0-windows\FMC.AssemblyInfoInputs.cache
+E:\C#\FMC\obj\Debug\net8.0-windows\FMC.AssemblyInfo.cs
+E:\C#\FMC\obj\Debug\net8.0-windows\FMC.csproj.CoreCompileInputs.cache
+E:\C#\FMC\obj\Debug\net8.0-windows\FMC.dll
+E:\C#\FMC\obj\Debug\net8.0-windows\refint\FMC.dll
+E:\C#\FMC\obj\Debug\net8.0-windows\FMC.pdb
+E:\C#\FMC\obj\Debug\net8.0-windows\FMC.genruntimeconfig.cache
+E:\C#\FMC\obj\Debug\net8.0-windows\ref\FMC.dll
+E:\C#\FMC\obj\Debug\net8.0-windows\FMC.MainWindow.resources
+E:\C#\FMC\obj\Debug\net8.0-windows\FMC.Properties.Resources.resources
